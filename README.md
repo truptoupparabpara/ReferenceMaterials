@@ -8,3 +8,4 @@
   - 한글이 안된다는 단점이 있음
 - [Konlpy 한국어 전용 자연어처리기](https://konlpy-ko.readthedocs.io/ko/v0.4.3/)
 - [Twitter 한국어 처리기](https://github.com/twitter/twitter-korean-text)
+- [영화리뷰분석 기반 긍부정판별 RestAPI](https://github.com/lunaB/emotional-analysis-rest-api)
