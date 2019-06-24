@@ -5,3 +5,4 @@
 > 트위터의 텍스트 분석에 쓸 자연어 처리 관련 자료들을 올려놓겠습니다.
 - [마이크로소프트 Azure 텍스트분석](https://docs.microsoft.com/ko-kr/azure/cognitive-services/text-analytics/language-support)
   - [언어지원현황](https://docs.microsoft.com/ko-kr/azure/cognitive-services/text-analytics/language-support)
+-한글이 안된다는 단점이 있음
